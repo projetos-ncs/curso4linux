@@ -1,0 +1,9 @@
+.quadro {
+   
+    border: 2px solid #4CAF50; 
+    width: auto;
+    min-height: 200px;
+    max-height: fit-content;
+      
+
+}
